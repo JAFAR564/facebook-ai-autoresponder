@@ -1,0 +1,16 @@
+name: facebook-bot
+channels:
+  - defaults
+dependencies:
+  - python=3.11
+  - pip
+  - pip:
+      - undetected-chromedriver
+      - selenium
+      - openai
+      - spacy
+      - redis
+      - celery
+      - python-dotenv
+      - requests
+      - transformers

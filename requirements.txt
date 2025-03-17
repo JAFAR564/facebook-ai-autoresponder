@@ -1,0 +1,9 @@
+undetected-chromedriver
+selenium
+openai
+spacy
+redis
+celery
+python-dotenv
+requests
+transformers
